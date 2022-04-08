@@ -7,7 +7,7 @@
 
 
 ## Front-end Project Repository
-[hello-rails-back-end](https://github.com/Wes-Isaac/hello-world-front-end)
+[hello-rails-front-end](https://github.com/Wes-Isaac/hello-world-front-end)
 
 
 ## Built With
