@@ -1,24 +1,53 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello React Front-end
 
-Things you may want to cover:
+> Project for displaying random greeting message.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## Front-end Project Repository
+[hello-rails-back-end](https://github.com/Wes-Isaac/hello-world-front-end)
 
-* Database creation
 
-* Database initialization
+## Built With
 
-* How to run the test suite
+- HTML, CSS, and JavaScript
+- React
+- git/GitHub
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
 
-* Deployment instructions
+To get a local copy up and running follow these simple example steps.
 
-* ...
+- go to the directory that you want to clone the repository in.
+- right click and choose Git Bash here.
+- type "git clone https://github.com/Wes-Isaac/hello-world-back-end.git".
+- run "npm install" and then "npm start"
+
+## Author
+
+👤 **Yishak**
+
+- GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
+- LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
